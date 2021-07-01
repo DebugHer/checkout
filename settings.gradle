@@ -1,0 +1,3 @@
+include ':klasha_checkout'
+include ':app'
+rootProject.name = "klasha"
